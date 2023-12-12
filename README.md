@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Martim</h1>
 <h3 align="center">Junior Full-Stack Developer with a passion for music</h3>
 
+I recently graduated from Le Wagon's Web Development Bootcamp in Lisbon, shifting from a 5-year stint in hospitality with a Bachelor's in Hospitality Management. After hospitality, I decided to pursue my passion for audio engineering and worked for 1.5 years in a dubbing studio as a freelancing recording and mixing engineer. The instability led me to explore a new path. After a few weeks of self-learning coding, I joined Le Wagon's boot camp and found joy akin to my passion for music and audio engineering.
+
+Now, as a Full-Stack Developer, I'm eager to explore different languages, frameworks, and tools. Currently seeking job opportunities in this exciting field.
+
 - 🔭 The latest project I worked on was [GrooveGrid](https://www.groovegrid.me/)
 
 - 🌱 I’m currently learning **React, Ruby on Rails, Javascript, HTML, CSS**
