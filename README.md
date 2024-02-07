@@ -7,7 +7,7 @@ Now, as a Full-Stack Developer, I'm eager to explore different languages, framew
 
 - 🔭 The latest project I worked on was [GrooveGrid](https://www.groovegrid.me/)
 
-- 🌱 I’m currently learning **React, Ruby on Rails, Javascript, HTML, CSS**
+- 🌱 I’m currently learning **React, Angular, Node, Vue, Javascript, HTML, CSS**
 
 - 💬 Ask me about **Ableton Live & music production**
 
